@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kermit1242 
+- I'm 18 Years Old!
+- I Usally programming HTML , CSS , JS , CSHARP , and JSON
